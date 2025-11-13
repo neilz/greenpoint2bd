@@ -1,11 +1,17 @@
 # 2 Bedroom Apartment in Greenpoint
 
-2 bed, 1 bath apartment overlooking McCarren Park, 
+2 bed, 1 bath apartment overlooking McCarren Park
 
 
-## Common Are
+## Common Area
 * Futon (full-size)
 * Peloton Bike
+* Breakfast Bar
+* Full Kitchen
+
+
+## Bathroom
+Includes a separate shower and bathtub
 
 
 ## Bedroom 1
